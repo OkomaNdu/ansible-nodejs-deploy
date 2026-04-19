@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+*.tgz
+package/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Ansible — contains server IPs, keep local
+ansible/hosts
